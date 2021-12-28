@@ -1,0 +1,33 @@
+body{
+    font: italic 45px medium ;
+    text-align: center;
+    color: cyan;
+    background-color: black;
+}
+#watch{
+    background-color: white;
+    color: black;
+    border-radius: 100px;
+    padding: 50px;
+    box-shadow: 10px 10px 100px white;
+}
+button{
+    color: white;
+    height: 35px;
+    width: 100px;
+}
+.start-bnt{
+    background-color: green;
+    border-radius: 100px;
+    box-shadow: 10px 10px 100px green;
+}
+.pausa-bnt{
+    background-color: red;
+    border-radius: 100px;
+    box-shadow: 10px 10px 100px red;
+}
+.stop-bnt{
+    background-color: blue;
+    border-radius: 100px;
+    box-shadow: 10px 10px 100px blue;
+}
